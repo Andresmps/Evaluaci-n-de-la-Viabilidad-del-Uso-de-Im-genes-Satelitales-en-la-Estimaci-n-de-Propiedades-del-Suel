@@ -1,0 +1,3 @@
+# Product ID Map
+ProductID	ProductType	ProductLocation
+0	BandMath	C:\Users\camil\codes\satellite_images_project\notebooks\snap\S2A_MSIL2A_20160110T152632_N0201_R025_T18NXM_20160110T153105_subsetoutput_ndvi.dim
