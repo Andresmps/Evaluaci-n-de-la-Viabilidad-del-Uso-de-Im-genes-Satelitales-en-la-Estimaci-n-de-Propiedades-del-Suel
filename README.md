@@ -1,0 +1,1 @@
+# Evaluaci-n-de-la-Viabilidad-del-Uso-de-Im-genes-Satelitales-en-la-Estimaci-n-de-Propiedades-del-Suel
